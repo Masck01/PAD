@@ -6,7 +6,7 @@ namespace ConsoleAppTp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hola World! Programacion de aplicaciones distribuidas.");
             Console.ReadKey();
         }
     }
