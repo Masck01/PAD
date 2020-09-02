@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drean\\source\\repos\\PAD\\TPSPAD\\ConsoleAppTp1\\ConsoleAppTp1.csproj",
+      "projectUniqueName": "C:\\Users\\drean\\source\\repos\\PAD\\TP1\\ConsoleAppTp1\\ConsoleAppTp1.csproj",
       "projectName": "ConsoleAppTp1",
-      "projectPath": "C:\\Users\\drean\\source\\repos\\PAD\\TPSPAD\\ConsoleAppTp1\\ConsoleAppTp1.csproj",
+      "projectPath": "C:\\Users\\drean\\source\\repos\\PAD\\TP1\\ConsoleAppTp1\\ConsoleAppTp1.csproj",
       "packagesPath": "C:\\Users\\drean\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drean\\source\\repos\\PAD\\TPSPAD\\ConsoleAppTp1\\obj\\",
+      "outputPath": "C:\\Users\\drean\\source\\repos\\PAD\\TP1\\ConsoleAppTp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
